@@ -1,3 +1,3 @@
-# Diabeties_heroku
+# diabetes_heroku
 
 Link : https://predictdiabetesapp.herokuapp.com/
